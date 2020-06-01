@@ -4,7 +4,12 @@ The various shapes are as follows:
 - Square
 - Rectangle
 - Circle
-- Rhombus
-- Cylinder
 - Triangle
-- Trapazoid
+- Cylinder
+- Ellipse
+- Cone
+- Sphere
+- Parallelogram
+- Cube
+- Trapezoid
+- Torus
